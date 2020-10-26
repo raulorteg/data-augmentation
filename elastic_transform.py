@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Fixed by Raul Ortega, from:
+Raul Ortega, from:
 @author: https://gist.github.com/erniejunior/601cdf56d2b424757de5
 """
 import numpy as np
